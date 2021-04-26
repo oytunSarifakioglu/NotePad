@@ -1,0 +1,15 @@
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Command\IUndoCommand.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Command\Commander.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\JFrameNotepad.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Strategy\OperationAlignCenter.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Command\CutCommand.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Command\CopyCommand.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Strategy\OperationAlignRight.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Command\ICommand.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Strategy\Context.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Strategy\OperationAlignLeft.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Strategy\IAlignmentStrategy.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Command\WordCommand.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\LineClass.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Command\Document.java
+C:\Users\Oytun\Desktop\tnb tutorials\java beginner\nesneproje1notepad\src\main\java\Command\PasteCommand.java
